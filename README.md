@@ -94,38 +94,32 @@ Here are some screenshots showcasing the different aspects of the **RedReserve**
 
 **Login/Register**
 
-![Screenshot 2024-09-02 132514](https://github.com/user-attachments/assets/df5eb535-e24d-4831-99d4-74ee7cdb5905)
+![Screenshot 2024-09-02 132514](https://github.com/user-attachments/assets/cb43ab93-740a-4ba8-a3b3-2c4498203d20)
 
 
 **Donor Interface**
 
-
-https://github.com/user-attachments/assets/1960b3f8-0d0a-43f2-90b7-ba69efbf13fa
-
-
+https://github.com/user-attachments/assets/09de63ff-640d-4280-afe5-0975955bab3b
 
 
 **Admin Interface**
 
 
-
-https://github.com/user-attachments/assets/9e992808-fc0a-4b48-9b78-f36095a59ef3
-
+https://github.com/user-attachments/assets/6a7a1934-9538-410c-9736-a9f7883979d0
 
 **Hospital Interface**
+![Screenshot 2024-09-02 155812](https://github.com/user-attachments/assets/1de884f8-0931-44a2-8c37-8e5097e0f0a0)
+![Screenshot 2024-09-02 155342](https://github.com/user-attachments/assets/9cf96ad1-9e23-4015-beca-6eeaa6939324)
 
-![Screenshot 2024-09-02 155812](https://github.com/user-attachments/assets/34519966-e760-445b-b115-1ae6491e7826)
-
-![Screenshot 2024-09-02 155342](https://github.com/user-attachments/assets/fa8e7e3c-fd89-4d27-a69d-4d93d4faa8fa)
 
 **Organization Interface**
+![Screenshot 2024-09-02 160122](https://github.com/user-attachments/assets/8068936c-ff89-4375-8091-e23591260170)
 
-![Screenshot 2024-09-02 160122](https://github.com/user-attachments/assets/0623670a-c8ea-4288-9227-7ebfd64028fd)
-
-![Screenshot 2024-09-02 160104](https://github.com/user-attachments/assets/60e8e9b5-2a13-412b-a6b7-c448449e3a87)
+![Screenshot 2024-09-02 160104](https://github.com/user-attachments/assets/13873236-2560-4a8f-8ab3-2d5804d57576)
 
 **Chatbot Interface**
 
+https://github.com/user-attachments/assets/6040f5fe-2060-4348-bfa8-7dc4648f59d7
 
-https://github.com/user-attachments/assets/4aacbcff-0f7e-496d-81eb-c925787ceabc
+
 
